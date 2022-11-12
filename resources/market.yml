@@ -1,0 +1,6 @@
+Kategoriler:
+  Bloklar:
+    Resim: "textures/ui/diamond_sword"
+    Elmas Kılıç:
+      Item: "276:0:100"
+      Resim: "textures/ui/diamond_sword"
